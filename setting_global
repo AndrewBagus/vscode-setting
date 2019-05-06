@@ -1,0 +1,17 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.menuBarVisibility": "toggle",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "aspnetcorerazor": "html"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "php.suggest.basic": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false
+}
